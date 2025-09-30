@@ -18,3 +18,8 @@ Tear down:
 Check the instance box
 Click instance state
 Terminate (delete) instance
+Tear down:
+Check the instance box
+Click instance state
+Terminate (delete) instance
+
